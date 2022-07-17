@@ -1,22 +1,13 @@
 {
   "response": [
     {
-        "maintainer": "Tkpointz",
-        "oem": "Xiaomi",
-        "device": "POCO F3 GT",
-        "filename": "lineage-19.1-20220717-UNOFFICIAL-ares.zip",
-        "download": "https://drive.google.com/uc?export=download&confirm=1&id=1HtkS5dFyp6ORdDfap7z-DKJc9yGXOTua",
-        "timestamp": 1658049782,
-        "md5": "15b5e38a4e10774a4349c719f920eb34",
-        "sha256": "ec26e869ccc7d7dbd629573a86ba883fd7a130c145ef5bb62f0171563e48d42b",
-        "size": 1265213331,
-        "version": "19.1",
-        "buildtype": "Beta",
-        "forum": "https://t.me/pocoF3GTOfficial",
-        "gapps": "Vanila",
-        "paytym": "",
-        "telegram": "",
-        "kernel": "Sploitpay"
+      "datetime": 1658059473,
+      "filename": "lineage-19.1-20220717-UNOFFICIAL-ares.zip",
+      "id": "fe8d62f11ca33fe5e87ab4ac9b6ff9cb",
+      "romtype": "UNOFFICIAL",
+      "size": 1264749591,
+      "url": "https://drive.google.com/uc?export=download&confirm=1&id=1dY-GLoQ2OLWOUiVBJYyCIZtCkFVScGnC",
+      "version": "19.1"
     }
   ]
 }
