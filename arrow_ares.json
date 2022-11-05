@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "datetime": 1667626745,
+        "datetime": 1667630447,
 	"filename": "Arrow-v13.0-ares-UNOFFICIAL-20221105-GAPPS.zip",
-        "id": "14adcf23a0c699f9c5ad843faf4a8a95",
+        "id": "1b065acc521b3c43b8a4d4e152a768ea",
 	"romtype": "UNOFFICIAL",
-        "size": 1691925501,
-	"url": "https://drive.google.com/uc?export=download&confirm=1&id=1vDabaLvKemEfT50JyxP4FgKLLg9x96OJ",
+        "size": 1691925345,
+	"url": "https://drive.google.com/uc?export=download&confirm=1&id=1g1ghvlgn4WFtAx7-hYLVG6_R_CkiFvTz",
 	"updater": true,
 	"version": "v13.0"
     }
